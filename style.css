@@ -1,0 +1,150 @@
+ /* *{
+    margin: 0%;
+    padding: 0%;
+    color:#f08804;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+button{
+    background-color: #f08804;
+}
+#navbar{
+    border: 1px;
+    border-color: rgb(20, 177, 177);
+    border-style: solid;
+    position: fixed;
+    top: 0;
+}
+a{
+    margin-right: 200px;
+    border: 2px;
+    border-style: dotted;
+    border-color: firebrick;
+}
+#logo{
+    color: #f08804;
+    text-decoration: wavy;
+}
+/* #one{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: none;
+}
+#two{
+    background-color:rgba(00, 255,0, 0.6;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#three{
+    background-color:rgba(255, 0,0, 0.3);
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    visibility: hidden;
+}
+#four{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+button{
+    background-color: coral;
+    display: block;
+} */ */
+/* .contentbox {
+    width: 100px;
+    height: 100px;
+}
+.contentbox{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+#abc{
+    margin: right 0;;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-image: url(world2.gif.crdownload);
+    background-size: contain
+}
+ /* #box1{
+    background-color: red;
+ }
+ #box2{
+    background-color: orange;
+    height: 300px;
+ }
+ #box3{
+    background-color: gold;
+    height: 200px;
+ }
+ #box4{
+    background-color: green;
+ }
+ body{
+    text-align: center;
+ }
+ div{
+    display: inline-block;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+ }
+ #container{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center;
+    /* flex-wrap: wrap; */
+    /* align-content: flex-start;
+    align-self: flex-end; */
+ /* }
+ #box1{
+    background-color: red;
+ }
+ #container{ */
+    /* align-content: center; */
+ /* } */ */ */
+
+ /* #navbar{
+    background-color: pink;
+    display: flex;
+ }
+ a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+ }
+li{
+    list-style-type: none;
+    display: inline;
+}
+div{
+    background-color: pink;
+    display: flex;
+    justify-content:center ;
+} */
+body{
+    background-image: url(world.gif);
+    background-size: contain
+}
+body{
+    background-image: url(world\ 3.jfif);
+    background-size: contain;
+}
